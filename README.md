@@ -38,7 +38,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/karinecord/cypress-regression-test?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/orangehrm/orangehrm"><b>OrangeHRM Open Source Application - End-To-End Testing</b></a></td>
+      <td><a href="https://github.com/karinecord/orangehrm"><b>OrangeHRM Open Source Application - End-To-End Testing</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/karinecord/orangehrm?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/karinecord/orangehrm?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/karinecord/orangehrm?style=flat-square&labelColor=343b41"/></td>
