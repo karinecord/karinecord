@@ -48,7 +48,7 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/@karinecordeiroribeiro"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> How the beginner with automated testing can you  apply your knowledge into practice?
+  <li><a href="https://medium.com/@karinecordeiroribeiro"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Being a beginner, where should I start for automation testing?
 </b></a><br/><i>A good tutorial to do your first steps with Automated testing.</i></li>
   
 </ul>
