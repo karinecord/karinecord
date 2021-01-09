@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="80"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="80"/> Hello! I'm glad to see you here.</h1>
 
 
 <p>Welcome to my page! </br> I'm Karine, QA Tester currently living in <img src="https://icons-for-free.com/iconfiles/png/512/ireland+icon-1320166577828392475.png" width="13"/> <b>Ireland, Limerick</b>. </p>
